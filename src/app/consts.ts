@@ -1,3 +1,3 @@
-export const API_KEY = 'tVaJe9QRTL6VZp9xhBkogbNWFTI9hYnJ';
+export const API_KEY = 'tP0lDTBZzetAuFAftfWZ5UJaHtCWSvLp';
 
 export const PAGE_LIMIT = 25;
